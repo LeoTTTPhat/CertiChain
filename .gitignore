@@ -1,0 +1,9 @@
+.publication-cache/
+restore-*/
+**/.venv/
+**/.runtime/
+**/__pycache__/
+**/.pytest_cache/
+**/.DS_Store
+CertiChain/data/
+CertiChain/P2_CertiChain/results/
